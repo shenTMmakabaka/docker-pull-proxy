@@ -7,7 +7,7 @@ on:
   #   branches: [ main ]
 
 env:
-  REGISTRY: mysql:5.7 registry.cn-hangzhou.aliyuncs.com/makabaka_ruan/niginx/mysql:5.7
+  REGISTRY: mysql:5.7 registry.cn-hangzhou.aliyuncs.com/makabaka_ruan/niginx：mysql:5.7
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
