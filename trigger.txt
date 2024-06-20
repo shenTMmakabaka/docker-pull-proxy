@@ -1,1 +1,2 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+nginx:1.12.0 registry.cn-hangzhou.aliyuncs.com/makabaka_ruan/niginx:1.12.0
+
