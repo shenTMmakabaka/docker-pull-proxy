@@ -1,2 +1,2 @@
-mysql:5.7 registry.cn-hangzhou.aliyuncs.com/makabaka_ruan/niginx：mysql:5.7
+mysql:5.7 registry.cn-hangzhou.aliyuncs.com/makabaka_ruan/mysql：5.7
 
