@@ -1,2 +1,2 @@
-nginx:1.12.0 registry.cn-hangzhou.aliyuncs.com/makabaka_ruan/niginx:1.12.0
+mysql:5.7 registry.cn-hangzhou.aliyuncs.com/makabaka_ruan/niginx/mysql:5.7
 
